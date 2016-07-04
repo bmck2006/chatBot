@@ -1,2 +1,0 @@
-# chatBot
-Python Messenger Simulator
